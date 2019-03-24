@@ -1,1 +1,7 @@
+<<<<<<< HEAD
  This is a text file
+=======
+New line added
+second line
+third line 
+>>>>>>> new
